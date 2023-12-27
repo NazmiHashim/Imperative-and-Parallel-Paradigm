@@ -1,3 +1,11 @@
+//Assignment 2 CPT316 2023/2024
+//Group members:
+//1. MOHAMAD NAZMI BIN HASHIM
+//2. MIOR MUHAMMAD IRFAN BIN MIOR LATFEE
+//3. OOI JING MIN
+//4. MUNIRAH BINTI SHAMSUDIN
+//5. SHONEERA SIMIN
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <mpi.h> 
